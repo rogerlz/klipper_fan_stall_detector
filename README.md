@@ -1,5 +1,7 @@
 # Klipper Fan Stall Detector
 
+![console.png](https://github.com/rogerlz/klipper_fan_stall_detector/blob/main/imgs/console.png?raw=true)
+
 ## Install
 
 ```bash

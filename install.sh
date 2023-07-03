@@ -22,7 +22,7 @@ function preflight_checks {
 
 function check_download {
     local mydirname mybasename
-    mydirname="$(dirname ${PLUGIN_PATH})"s
+    mydirname="$(dirname ${PLUGIN_PATH})"
     mybasename="$(basename ${PLUGIN_PATH})"
 
     if [ ! -d "${PLUGIN_PATH}" ]; then
