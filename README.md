@@ -2,6 +2,10 @@
 
 ![console.png](https://github.com/rogerlz/klipper_fan_stall_detector/blob/main/imgs/console.png?raw=true)
 
+## Context
+Klipper plugin to work with Timmit fan stall pcb, to pause the print (or do other operations) if the hotend fan is not running.
+The hw can be found here https://github.com/timmit99/Fan_Stall_Detector.
+
 ## Install
 
 ```bash
